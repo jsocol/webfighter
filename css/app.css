@@ -1,0 +1,30 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+canvas {
+    width: 100%;
+    height: 100%;
+    image-rendering: optimizeSpeed;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+}
+.input {
+    background-color: #fcc;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 10px;
+    width: 60px;
+    height: 60px;
+}
+.dpad {
+    left: 10px;
+}
+.fire {
+    right: 10px;
+}
+div, section, header {
+    font-size: 13px;
+}
