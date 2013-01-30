@@ -18,6 +18,7 @@ js/lib/../input.js
 js/lib/../object.js
 js/lib/../sceneobject.js
 js/lib/../sprite.js
+js/lib/../units.js
 js/lib/../level.js
 js/lib/../renderer.js
 js/lib/../scene.js

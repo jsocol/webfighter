@@ -25,6 +25,16 @@ canvas {
 .fire {
     right: 10px;
 }
+.score {
+    background: none;
+    color: #fff;
+    font-family: monospace;
+    position: absolute;
+    right: 10px;
+    text-align: right;
+    top: 10px;
+    width: 4em;
+}
 div, section, header {
     font-size: 13px;
 }
